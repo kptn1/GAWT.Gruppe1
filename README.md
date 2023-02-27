@@ -1,4 +1,5 @@
 # GAWT.Gruppe1
 Abgabe des Projekts der Datenanalyse
 
-Wir sind nicht fähig Ordner zu erstellen, daher mussten wir leider alle Dateien mehr oder weniger ohne Ordnung hochladen.
+Lukas Annawald, Christian Käufer, Elias Motzel
+Alle Rechte sind den oben genannten Personen vorbehalten.
